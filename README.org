@@ -1,0 +1,4 @@
+This VCS interface was included in Nyxt 2 pre-release 6.
+
+It will need to be brought up to-date before it is merged back into
+the mainline system.
